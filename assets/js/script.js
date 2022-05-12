@@ -23,7 +23,7 @@ function navigateTo(url) {
 
 function talkByWhatsapp() {
 	const URL = "https://wa.me";
-	const PHONE = "51995253515";
+	const PHONE = "51985944893";
 
 	navigateTo(`${URL}/${PHONE}`);
 }
